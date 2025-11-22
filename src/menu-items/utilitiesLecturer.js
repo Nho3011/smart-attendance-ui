@@ -31,14 +31,14 @@ const utilitiesLecturer = {
       breadcrumbs: false
     },
     {
-      id: 'util-shadow',
+      id: 'lich-giang-day',
       title: 'Lịch giảng dạy',
       type: 'item',
       url: '/plane',
       breadcrumbs: false
     },
     {
-      id: 'util-shadow',
+      id: 'thong-tin-ca-nhan',
       title: 'Thông tin cá nhân',
       type: 'item',
       url: '/userLecturer',
